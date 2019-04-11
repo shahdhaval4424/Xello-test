@@ -1,4 +1,4 @@
-/**  Copyright 2017 Xello
+/**  Copyright 2019 Xello
  * 
  * Name - directive.ts
  * Description - Custom tooltip directive.

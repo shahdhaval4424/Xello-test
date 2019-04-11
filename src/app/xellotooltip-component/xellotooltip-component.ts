@@ -1,5 +1,5 @@
-/**  Copyright 2017 Xello
- * 
+/**  Copyright 2019 Xello
+ *  
  * Name - xellotooltip-component.ts
  * Description - Component for xellotooltip directive.
  * Created By - Dhaval Shah
