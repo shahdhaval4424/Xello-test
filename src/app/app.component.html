@@ -1,0 +1,21 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div class="container-fluid">
+  <div class="header col-sm-12 col-md-12 col-xs-12 col-lg-12">
+    <h1>
+      Welcome {{ title }},
+    </h1>
+    <h3> This is a demo application build in Angular. 
+      <br/> As a part of test, <b>Dhaval Shah (email : shahdhaval4424@gmail.com) </b>
+      implemented custome directive for the tooltip</h3>
+      <h4>Kindly use Angular command ng serve --o to run the application</h4>
+  </div>
+  <div class="margintop col-sm-12 col-md-12 col-xs-12 col-lg-12">
+    <div class="col-sm-6 col-md-6 col-xs-6 col-lg-6">
+      <button id="btn1" class="btn btn-primary btn-lg btn-block" xellotooltip="Button A clicked!">Button A</button>
+    </div>
+    <div class="col-sm-6 col-md-6 col-xs-6 col-lg-6">
+      <button id="btn2" class="btn btn-secondary btn-lg btn-block" xellotooltip="Button B clicked">Button B</button>
+    </div>
+  </div>
+</div>
+<router-outlet></router-outlet>
